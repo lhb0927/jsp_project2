@@ -9,10 +9,5 @@
 <body>
 <% out.print("Today is:"+java.util.Calendar.getInstance().getTime()); %>  
 
-<br>
-<% out.print("Today is:"+java.util.Calendar.getInstance().getTime()); %>  
-<%= request.getParameter("name") %>  
-
-
 </body>
 </html>
