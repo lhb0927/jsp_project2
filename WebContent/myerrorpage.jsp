@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+//hw1
 <%@ page isErrorPage="true" %>  
   
 <h2> Sorry an exception occured!</h2><br/>  

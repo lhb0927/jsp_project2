@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+//hw1
 	<%@ taglib uri="https://www.naver.com/" prefix="mytag" %>  
   
 	<mytag:currentDate/>  
