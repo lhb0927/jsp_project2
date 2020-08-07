@@ -7,8 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<p>hw4</p>
-
+//hw3
 	Welcome, ${param.name}<br/>
 	Hello, ${ sessionScope.n1 }<br/>
 	This is a cookie: ${cookie.cookie1.value}
