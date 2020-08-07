@@ -7,7 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-<jsp:useBean id="obj" class="com.javatpoint.Calculator"/>  
+//hw2
+<jsp:useBean id="obj" class="jsp_project2.Calculator"/>  
   
 <%  
 int m=obj.cube(5);  

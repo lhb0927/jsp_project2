@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+//hw2
 <h2>this is index page</h2>   
 <jsp:forward page="printdate.jsp" /> 
 

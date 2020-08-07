@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+//hw2
 <% out.print("Today is:"+java.util.Calendar.getInstance().getTime()); %>  
 
 <br>
