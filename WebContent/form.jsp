@@ -8,7 +8,7 @@
 </head>
 <body>
 
-
+//hw4
 <form action="form_ok.jsp">
 	<label for='name'>first name</label>
 	<input type="text" name="fname" id='fname' placeholder="input first name." >

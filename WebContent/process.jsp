@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<jsp:useBean id="u" class="org.sssit.User"></jsp:useBean>  
+<jsp:useBean id="u" class="jsp_project2.User"></jsp:useBean>  
 <jsp:setProperty property="*" name="u"/>  
   
 Record:<br>  

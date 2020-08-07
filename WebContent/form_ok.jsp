@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+//hw4
 <%= "Result Page\n" %><br>
 	<%  
 		String fname=request.getParameter("fname");
