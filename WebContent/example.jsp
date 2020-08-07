@@ -15,5 +15,18 @@
 <%@ page import="java.util.Date" %>  
 Today is: <%= new Date() %>  
 
+<h3>info</h3>
+<%@ page info="composed by Sonoo Jaiswal" %>  
+Today is: <%= new java.util.Date() %>  
+
+
+<h3>buffer</h3>
+<%@ page buffer="16kb" %>  
+Today is: <%= new java.util.Date() %> 
+
+<h3>error</h3>
+<%@ page errorPage="myerrorpage.jsp" %>  
+  
+ <%= 100/0 %>  
 </body>
 </html>
